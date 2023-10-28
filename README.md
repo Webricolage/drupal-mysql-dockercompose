@@ -1,3 +1,3 @@
-# Camera Lucida - A Visual Anthropology hub
+# Docker Compose template for a Drupal site with a MariaDB (MySQL) database
 
-A website for everything related to different ways of seeing people and culture.
+To be continued...
